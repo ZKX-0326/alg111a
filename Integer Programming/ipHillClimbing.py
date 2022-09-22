@@ -5,6 +5,7 @@ import random
 def loss(a):
     c = 0
     p = 0
+    # 4組資料輪流進行判定
     for i in range(len(coefs)):
         for j in range(len(coefs[i])):
             b = coefs[i][j] * a[j]
