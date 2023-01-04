@@ -2,7 +2,7 @@
 ## 題目解析
 給一組城市和各城市之間的距離，求路過所有城市並回到起始城市的最短路徑。
 
-## 由ChatGTP產生的結果(僅修改註解)
+## 由ChatGPT產生的結果(僅修改註解)
 ```
 import random
 import math
@@ -41,5 +41,5 @@ print(best_permutation)
 目前已完全理解此程式碼運行原理，此原理為將所有城市進行隨機排序並計算，再做比較進而得出結果。
 
 參考資料:   
-[ChatGTP](https://openai.com/blog/chatgpt/)   
+[ChatGPT](https://openai.com/blog/chatgpt/)   
 [維基百科](https://zh.wikipedia.org/zh-tw/%E6%97%85%E8%A1%8C%E6%8E%A8%E9%94%80%E5%91%98%E9%97%AE%E9%A2%98)
